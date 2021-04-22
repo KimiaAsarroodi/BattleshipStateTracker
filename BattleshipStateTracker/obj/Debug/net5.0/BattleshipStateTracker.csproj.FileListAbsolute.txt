@@ -1,0 +1,15 @@
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/bin/Debug/net5.0/BattleshipStateTracker.deps.json
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/bin/Debug/net5.0/BattleshipStateTracker.runtimeconfig.json
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/bin/Debug/net5.0/BattleshipStateTracker.runtimeconfig.dev.json
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/bin/Debug/net5.0/BattleshipStateTracker.dll
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/bin/Debug/net5.0/ref/BattleshipStateTracker.dll
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/bin/Debug/net5.0/BattleshipStateTracker.pdb
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/Debug/net5.0/BattleshipStateTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/Debug/net5.0/BattleshipStateTracker.AssemblyInfoInputs.cache
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/Debug/net5.0/BattleshipStateTracker.AssemblyInfo.cs
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/Debug/net5.0/BattleshipStateTracker.csproj.CoreCompileInputs.cache
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/Debug/net5.0/BattleshipStateTracker.dll
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/Debug/net5.0/ref/BattleshipStateTracker.dll
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/Debug/net5.0/BattleshipStateTracker.pdb
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/Debug/net5.0/BattleshipStateTracker.genruntimeconfig.cache
+/Users/kimiaasarroodi/Projects/BattleshipStateTracker/BattleshipStateTracker/obj/Debug/net5.0/BattleshipStateTracker.csprojAssemblyReference.cache

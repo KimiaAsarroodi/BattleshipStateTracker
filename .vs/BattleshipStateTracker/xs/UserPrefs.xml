@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{993E2917-AD37-434D-B6B3-71CAF3687889}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BattleshipStateTrackerTests/BattleshipTests.cs">
+    <Files>
+      <File FileName="BattleshipStateTracker/BattleshipMain.cs" Line="1" Column="1" />
+      <File FileName="BattleshipStateTrackerTests/BattleshipTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BattleshipStateTracker" expanded="True">
+            <Node name="BattleshipStateTracker" expanded="True" />
+            <Node name="BattleshipStateTrackerTests" expanded="True">
+              <Node name="BattleshipTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>TestBattleshipStateTracker/TestBattleshipStateTracker.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BattleshipStateTracker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
